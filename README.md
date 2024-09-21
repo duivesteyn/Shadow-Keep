@@ -2,7 +2,7 @@
 
 Shadow Keep is a 1992 Game by Glenn Seemann for the Macintosh.
 
-This repo has the code I created to recreate the original maps from the Game and of course the maps.  I made a [youtube walkthrough](https://youtu.be/kR4bPufW1vw) of this game on a day off in  2024.
+This repo has the code I created to recreate the original maps from the game.  I also made a [youtube walkthrough](https://youtu.be/kR4bPufW1vw) of this game on a day off in 2024.
 
 ![Shadow Keep](ShadowKeepIntro.png)
 
