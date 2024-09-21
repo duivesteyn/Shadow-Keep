@@ -27,7 +27,7 @@ Excerpt from "A Short Guide To Shadow Keep v1.1" by Bob Nordling: [Source](https
 Its not polished code, its just my quick work through of it using a Python Notebook. It was done in a single sitting.
 
 
-Sorry I resource-hacked your game Glenn. (I'm sure you don't mind :)
+Sorry I resource-hacked your game Glenn. (I'm sure you don't mind :) )
 
 ![ResEdit](_source_resedit/ResEdit%20Data1.png)
 
@@ -60,7 +60,7 @@ Interestingly has the Spider Cave above the Castle.
 ![Kingdom](map-cave.png)
 
 ### Dwelling
-Has the Dungeon under the castle, the dwellings and the Hidden Passage to John
+Has the Dungeon under the castle, the dwellings, the guardian and the Hidden Passage to John.
 
 
 ![Kingdom](map-dwelling.png)
@@ -70,7 +70,7 @@ Has the Dungeon under the castle, the dwellings and the Hidden Passage to John
 
 ### Labyrinth
 
-There are 2 interesting features. In the bottom left there is lots of treasure. In the Top there is a long pathway to a scroll that says "This is the wrong way".
+There are 2 interesting features. In the bottom right there is lots of treasure. In the Top there is a long pathway to a scroll that says "This is the wrong way".
 
 
 ![Kingdom](map-labyrinth.png)
