@@ -14,9 +14,9 @@ This repo has the code I created to recreate the original maps from the Game and
 
 Excerpt from "A Short Guide To Shadow Keep v1.1" by Bob Nordling: [Source](https://archive.org/details/ShadowKeepMacintosh)
 
-    "Only the elder knights of Shadow Keep remember the Great Battle with the Evil Overlord, a battle in which The Black Sword, his powerful magical weapon, was lost by him in the heat of battle and his forces routed. Not Even in the dark corners of taverns do they whisper his name, especially not in the darkness... But through childhood tales, all in the kingdom have heard of that evil knight/magician, and his uncanny ability to heal himself even in the midst of battle... and the tales recount that it was not until The Black Sword was lost to him did his hideous grin turn into a scornful grimace. For in the final hours of The Great Battle, The Black Sword was turned against him, and as many slain and maimed knights had already learned, the blows by that vile weapon did not heal, neither by nature nor by magic."
+>  "Only the elder knights of Shadow Keep remember the Great Battle with the Evil Overlord, a battle in which The Black Sword, his powerful magical weapon, was lost by him in the heat of battle and his forces routed. Not Even in the dark corners of taverns do they whisper his name, especially not in the darkness... But through childhood tales, all in the kingdom have heard of that evil knight/magician, and his uncanny ability to heal himself even in the midst of battle... and the tales recount that it was not until The Black Sword was lost to him did his hideous grin turn into a scornful grimace. For in the final hours of The Great Battle, The Black Sword was turned against him, and as many slain and maimed knights had already learned, the blows by that vile weapon did not heal, neither by nature nor by magic."
 
-    
+
 ## Code background
 
 1. Got the hex data from the macintosh binary
