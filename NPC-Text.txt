@@ -1,0 +1,96 @@
+Useful text from NPCs
+======================
+Note: the chars at the end of each line are the text the NPC responds to.
+I didnt use this for my published video run through, these are just a bonus. I have never seen John in a mood where he will give the real hints.
+
+John's Hints
+====
+"I don't feel like giving you a hint right now."
+"The Amulet canst guide thy way through the labyrinth."
+"The Magic Quill canst transport you between the kingdom of Shadow Keep and the Far Land."
+"The Amulet will guide your way through the labyrinth."
+"The Black Sword is hidden in the Valley of the Unicorn."
+"You must defeat the Overlord to get the Ankh."
+"Search all temples."
+"The Grail is deep within the catacombs."
+"The Guardian will not strike down the holder of the Sacred Bone."
+"The Overlord is in a cave below the kingdom."
+"The Grail will help protect you from the Overlord's magic."
+"The Black Sword is the only weapon that can destroy the Overlord."
+"The Wand of Sorn will allow you to enter the Guardian."
+
+"My health is very good.""My health is good.""My health is moderate.""My health is poor.""My health is very poor."heal
+"The Living Forest is near the Temple of Life."forelivi,
+"Chuck, the court jester, is in the castle."chucfooljest
+"Chuck is a fine juggler."jugg"Verryl is the queen."verrquee
+"I don't know who stole the Ankh."stol.
+"The Ankh was stolen from the Temple of Life."ankh
+"Pirates will cut thy throat for a gold piece."pira
+"Goblins will cut thy throat for a gold piece."gobl
+"Cyclopes art scoundrels."cycl)
+"Octopuses art very dangerous creatures."octo@
+"There is a small gnome village near the center of the kingdom."gnom
+"Perhaps a man of the sea wouldst be able to tell thee of serpents."serp
+"Maldron is a drifter who usually keeps to himself.  He wanders the kingdom."mald
+"Only a magical creature wouldst know of the Shamrock."shamR
+"Perhaps the Magic Shamrock would help thee find the treasure of the Leprechauns."trea1
+"Leprechauns sometimes hide their gold in trees."treatreehiddlepr
+"Treasure is hidden all over the kingdom."treagold"Thaldo is an innkeeper."thal;
+"I have heard Thaldo speak of the Amulet.  Try asking him."amul
++"Thou wouldst need a key to unlock a door."doorunlolock
+"There is a small human village to the southwest  of the castle."huma
+"The town is near the southwest corner of the castle."townvill
+"Magical keys art sold in the town shop."key
+"Slicer is in the castle."slic
+"The dungeon is beneath the castle."dung
+"Katrina is in the castle."katr
+"I have heard Katrina speak of the Sacred Bone."bone
+"Sorn died many years ago."sorn
+"Sorn was a powerful wizard."sornwand
+"The Guardian was built long ago by the Sorn the Wizard.  Only Katrina can tell thee how to pass the Guardian."guar
+"Legend says that the Druids transported themselves to the Far Land through the Shrine of the Air Gods."godairtranshri("The Druids disappeared many years ago."disadrui
+"I have heard that ancient Druids built the Shrine of the Air Gods."birdeaglgodairstat "I dost not know where Iago is."lagoiago
+"Iago hast explored many caves in the kingdom."cave"Food is a necessity."neceS
+"There is a small shop to the southwest of the castle that sells many necessities."buystoreshop 
+"Ships art not easy to come by."vessboatship
+"Thou wouldst need a ship to get to an island."islaK"There is a small shop to the southwest  of the castle that sells rations."ratifood!
+"Mermaids art magical creatures."creamagiT
+"Perhaps a magical creature wouldst know the whereabouts of the fabled Black Sword."sworblac5
+"I have heard that he lives alone on a small island."herm#"I dost not know where Antonio is."anto"Antonio is a man of the sea."seamanl
+"I dost not know where the orchid is . . . try asking the old hermit . . . if, of course, you can find him."floworchA"Only a man of the sea wouldst be able to tell thee of mermaids."merm
+("King Mondor is the ruler of this land."leadrulemagekingsove
+"There is an inn near the center of the kingdom . . . near a small gnome village."sleerestinn-"An excellent inn to get a good nights rest."burrdune
+"There is a small shop owned by a wizard on the east side of the kingdom that sells antidotes."poisanti
+"Giant scorpions art one of the deadliest creatures in the kingdom.  One bite and thy fate is sealed . . . unless, of course, thou hast the antidote."scor
+"Giant spiders art one of the deadliest creatures in the kingdom.  One bite and thy fate is sealed . . . unless, of course, thou hast the antidote."spid
+"There is a small shop owned by a wizard on the east side of the kingdom that sells fine potions."wizapoti
+"There is a small shop owned by a wizard on the east side of the kingdom that sells powerful spells."wizaspel
+"There is a small shop to the southwest  of the castle that sells fine weapons."weapN"There is a small shop to the southwest  of the castle that sells fine armor."armo
+""Which temple dost thou speak of?"tempE"The life force of the entire kingdom flows from the Temple of Life."flowforclifelifegodlife
+"The God of Magic will show favor to the generous magic user."magigodmagi>
+"The God of Strength will show favor to the generous warrior."stregodstre
+
+"The castle is in the northwest corner of the kingdom."keepshadcast"Thou art in the castle."keepshadcast"Farewell, traveller."
+farebye"Greetings, traveller."hellfeligree"John sometimes gives HINTS."helphint+"John is probably looking after his birds."birdjohn
+"Never heard of him."calhoun"A brilliant young programmer!"seemannglennNV
+
+
+"'Tis beyond the great sea."!"I know nothing of the Far Land.""The Far Land lies beyond the great sea.  I have also heard of a great labyrinth beneath the kingdom which leads to the Far Land."landfar
+"'Tis just a myth.""I know nothing of unicorns."S"The Valley of the Unicorn is just a legend . . . it probably dost not even exist."
+
+"The Valley of the Unicorn is in the Far Land."$"I know nothing of the Black Sword."&"I know not where the Black Sword is."%"The Black Sword was lost in battle."%"The Black Sword was lost in battle."sworblac
+"I know nothing of the Battle of the Black Sword."
+"It was between the Knights of Shadow Keep and the Overlord's Demon Knights.  The Demon Knights were destroyed, but the Black Sword was never found."
+"It was between the Knights of Shadow Keep and the Overlord's Demon Knights.  Thank the Gods that good prevailed."
+"I have heard that Mermaids know how to defeat the Overlord."
+"The Overlord and his Demon Knights tried to destroy the kingdom in the Battle of the Black Sword."
+ "I fear to even speak his name."
+ "The Evil Overlord is determined to destroy the kingdom of Shadow Keep."
+ "The Overlord lives in a vast cave below the kingdom."
+ "The Overlord is the most evil creature in the kingdom."over
+ "The undead Demon Knights guard the Grail.""I know nothing of the Grail.")"The Grail is deep within the catacombs." "I know not where the Grail is."<"The Grail can help protect thee from the Overlord's Magic."grai
+ "Beware friend . . . stay away from the undead Demon Knights if you cherish your life."&"I know nothing of the Demon Knights."+"The undead Demon Knights guard the Grail."."The undead Demon Knights roam the catacombs."
+ "The Demon Knights were all destroyed in the Battle of the Black Sword.">"The Demon Knights were an elite legion of the Evil Overlord."knigdemo:"The catacombs canst be entered through the old cemetary."""I know nothing of the catacombs."
+ "The catacombs contain the remains of the Demon Knights . . . and they don't like to be disturbed!"
+ "The catacombs art beneath the old cemetary."*"I refuse to speak of such an evil place!"cata#
+ "Only fools and the dead go there!"*"I refuse to speak of such an evil place!"%"I know nothing of the old cemetary."1"Don't go there!!  'Tis no place for the living!"""Stay away!  I hear 'tis haunted!"<"Many fools have ventured into it . . . and never returned!"5"'Tis an evil place . . . Be warned . . . STAY AWAY!"ceme
